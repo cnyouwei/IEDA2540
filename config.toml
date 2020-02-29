@@ -1,4 +1,4 @@
-baseURL = "cnyouwei.github.io/IEDA2540/"
+baseURL = "./"
 languageCode = "en-us"
 title = "IEDA 2540 Statistics for Engineers"
 theme = "hello-friend"
@@ -37,7 +37,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Statistics for Engineers"
-      logoHomeLink = "cnyouwei.github.io/IEDA2540/"
+      logoHomeLink = "./"
     # or
     #
     # path = "/img/your-example-logo.svg"
